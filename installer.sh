@@ -1,4 +1,4 @@
-echo Heliactyl INSTALLER (Unoffical)
+echo Heliactyl INSTALLER UNOFFICAL
 sleep 1 
 echo Starting .......
 sleep 1
